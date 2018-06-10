@@ -15,3 +15,6 @@ Eliminar_AccessibilityType_None.py
 
 4. rdf-generator.py, Create RDF data of the XML which was generated for script 3.
 
+
+XML's files to run these codes could be download for the API or in data directory of the proyect.
+
