@@ -10,7 +10,7 @@ In this part of the proyect we present how to donwnload dataset, cleaning inform
 eliminar-opening-hours.py
 Eliminar_AccessibilityType_None.py 
 
-3. union-xml.py,  merge by key (Station) he information of the diferents xml.
+3. union-xml.py,  merge by key (Station) the information of the diferents xml.
 
 
 4. rdf-generator.py, Create RDF data of the XML which was generated for script 3.
